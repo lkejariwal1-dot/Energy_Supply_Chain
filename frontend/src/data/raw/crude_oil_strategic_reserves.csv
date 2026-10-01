@@ -1,0 +1,101 @@
+Entry_ID,Country,Site_or_Program_Name,Location,Storage_Type,Capacity_Million_Bbl,Operator,Notes
+C001,USA,Bryan Mound,"Freeport, Texas",Salt Cavern,254,US DOE,Largest of the four US SPR sites
+C002,USA,Big Hill,"Winnie, Texas",Salt Cavern,160,US DOE,Gulf Coast salt-dome site
+C003,USA,West Hackberry,"Lake Charles, Louisiana",Salt Cavern,227,US DOE,Louisiana salt-dome site
+C004,USA,Bayou Choctaw,"Baton Rouge, Louisiana",Salt Cavern,76,US DOE,Smallest of the four US SPR sites
+C005,China,Zhenhai Base,"Ningbo, Zhejiang",Above-ground Tank,33,Sinopec/State,Phase I national reserve base
+C006,China,Zhoushan Base,"Zhoushan, Zhejiang",Above-ground Tank,Undisclosed,State/Sinopec,Major east coast reserve hub
+C007,China,Huangdao Base,"Qingdao, Shandong",Above-ground Tank,Undisclosed,Sinopec,Shandong peninsula site
+C008,China,Dalian Base,"Dalian, Liaoning",Above-ground Tank,Undisclosed,PetroChina,Northeast China site
+C009,China,Lanzhou Base,"Lanzhou, Gansu",Above-ground Tank,Undisclosed,PetroChina,Inland strategic site
+C010,China,Tianjin Base,Tianjin,Above-ground Tank,Undisclosed,Sinopec,North China coastal site
+C011,China,Jinzhou Base,"Jinzhou, Liaoning",Above-ground Tank,Undisclosed,PetroChina,Phase II reserve base
+C012,China,Huizhou Base,"Huizhou, Guangdong",Above-ground Tank,Undisclosed,CNOOC/Sinopec,South China coastal site
+C013,Japan,Kuji National Base,"Kuji, Iwate",Underground Rock Cavern,Part of national total,JOGMEC,One of 10 national stockpiling bases
+C014,Japan,Kikuma National Base,"Imabari, Ehime",Above-ground Tank,Part of national total,JOGMEC,One of 10 national stockpiling bases
+C015,Japan,Shirashima National Base,Off Fukui coast,Floating Storage,Part of national total,JOGMEC,Offshore floating storage facility
+C016,Japan,Kamigoto National Base,Nagasaki,Floating Storage,Part of national total,JOGMEC,Offshore floating storage facility
+C017,Japan,Akita National Base,Akita,Underground Rock Cavern,Part of national total,JOGMEC,Northern Honshu storage site
+C018,Japan,Tomakomai National Base,"Tomakomai, Hokkaido",Above-ground Tank,Part of national total,JOGMEC,Hokkaido storage site
+C019,Japan,National Stockpile Total (all 10 bases),Nationwide,Mixed (Tank/Cavern/Floating),Approx. 320-340 million bbl (national portion),JOGMEC,Japan mandates ~90 days national + ~70 days private
+C020,South Korea,Yeosu Base,Yeosu,Above-ground Tank,Part of national total,KNOC,Southern coast major complex
+C021,South Korea,Ulsan Base,Ulsan,Above-ground Tank,Part of national total,KNOC,Industrial hub storage
+C022,South Korea,Geoje Base,Geoje Island,Underground Rock Cavern,Part of national total,KNOC,Underground cavern storage
+C023,South Korea,Seoguipo Base,Jeju Island,Above-ground Tank,Part of national total,KNOC,Southern island storage site
+C024,South Korea,Pyeongtaek Base,Pyeongtaek,Above-ground Tank,Part of national total,KNOC,West coast storage site
+C025,South Korea,National Reserve Total,Nationwide,Mixed,Approx. 96 million bbl (government-owned),KNOC,Plus separate private industry mandate
+C026,India,Visakhapatnam Cavern,"Visakhapatnam, Andhra Pradesh",Underground Rock Cavern,33.3,ISPRL,First-phase strategic cavern
+C027,India,Mangalore Cavern,"Mangalore, Karnataka",Underground Rock Cavern,18.3,ISPRL,First-phase strategic cavern
+C028,India,Padur Cavern,"Padur, Karnataka",Underground Rock Cavern,36.9,ISPRL,Largest Indian strategic cavern
+C029,India,Chandikhol Cavern (Phase II),Odisha,Underground Rock Cavern,32 (planned),ISPRL,Under construction
+C030,India,Padur Phase II Expansion,"Padur, Karnataka",Underground Rock Cavern,Additional 25 (planned),ISPRL,Capacity expansion project
+C031,India,Bikaner Cavern (Phase II),Rajasthan,Underground Rock Cavern,18.75 (planned),ISPRL,Inland strategic cavern under development
+C032,Germany,Federal Petroleum Reserve (EBV),Multiple sites nationwide,Mixed Tank Storage,Approx. 90 days net imports,Erdolbevorratungsverband,Includes crude and product stocks
+C033,France,SAGESS National Reserve,Multiple depots nationwide,Mixed Tank Storage,Approx. 90+ days consumption,SAGESS,Crude and refined product stockpile
+C034,Netherlands,COVA Central Stockpile,Multiple depots (incl. Rotterdam area),Mixed Tank Storage,Approx. 90 days consumption,COVA,National stockpiling agency
+C035,Spain,CORES Strategic Reserve,Multiple depots nationwide,Mixed Tank Storage,Approx. 92 days consumption,CORES,Corporacion de Reservas Estrategicas
+C036,Italy,National Strategic Reserve,Multiple depots nationwide,Mixed Tank Storage,Approx. 90 days consumption,Ministry of Economic Development,IEA-compliant stockpile
+C037,United Kingdom,Compulsory Stocking Obligation Reserve,Industry-held sites nationwide,Mixed Tank Storage,Approx. 67-day obligation,Industry (regulated by government),No dedicated government-owned crude reserve
+C038,Poland,PERN Strategic Reserve,Multiple depots nationwide,Mixed Tank Storage,Approx. 90 days consumption,Agencja Rezerw Materialowych / PERN,National reserve agency
+C039,Sweden,Preparedness Stocks,Multiple depots nationwide,Mixed Tank Storage,IEA-compliant reserve,Swedish Energy Agency,National emergency stock
+C040,Finland,NESA National Reserve,Multiple depots nationwide,Mixed Tank Storage,Above IEA 90-day minimum,National Emergency Supply Agency,One of highest reserve ratios in IEA
+C041,Switzerland,Compulsory Stockpile,Multiple depots nationwide,Mixed Tank Storage,Approx. 4.5 months consumption,Carbura (industry consortium),Mandatory private-sector system
+C042,Austria,Strategic Oil Stockpile,Multiple depots nationwide,Mixed Tank Storage,Approx. 90 days consumption,Erdol-Lagergesellschaft (ELG),National stockpiling company
+C043,Belgium,APETRA Strategic Reserve,Multiple depots (incl. Antwerp),Mixed Tank Storage,Approx. 90 days consumption,APETRA,National stockpiling agency
+C044,Portugal,ENSE Strategic Reserve,Multiple depots nationwide,Mixed Tank Storage,Approx. 90 days consumption,Entidade Nacional para o Setor Energetico,National reserve entity
+C045,Greece,National Strategic Reserve,Multiple depots nationwide,Mixed Tank Storage,IEA-compliant reserve,Ministry of Environment and Energy,Includes Aegean coastal depots
+C046,Czech Republic,Administration of State Material Reserves,Multiple depots nationwide,Mixed Tank Storage,Approx. 90 days consumption,Sprava statnich hmotnych rezerv,National reserve administration
+C047,Hungary,National Strategic Reserve,Multiple depots nationwide,Mixed Tank Storage,Approx. 90 days consumption,Hungarian Hydrocarbon Stockpiling Association (HUSA),MOL-linked storage infrastructure
+C048,Slovakia,National Strategic Reserve,Multiple depots nationwide,Mixed Tank Storage,Approx. 90 days consumption,Slovak Republic reserve administration,IEA-member obligation
+C049,Denmark,National Strategic Reserve,Multiple depots nationwide,Mixed Tank Storage,IEA-compliant reserve,Danish Energy Agency,National emergency stockpile
+C050,Ireland,National Oil Reserves Agency (NORA),Multiple depots nationwide,Mixed Tank Storage,Approx. 90 days consumption,NORA,Statutory strategic reserve body
+C051,Norway,Emergency Preparedness Stocks,Multiple depots nationwide,Mixed Tank Storage,Minimal formal reserve (net exporter),Norwegian Petroleum Directorate,Low reserve need as major exporter
+C052,Turkey,EPDK-Managed Strategic Stock,Multiple depots nationwide,Mixed Tank Storage,90-day IEA-aligned target,Energy Market Regulatory Authority,National strategic stock program
+C053,Saudi Arabia,Aramco Strategic Storage - Ras Tanura,Ras Tanura,Above-ground Tank,Undisclosed,Saudi Aramco,Major export terminal storage
+C054,Saudi Arabia,Aramco Overseas Storage - Egypt (Sidi Kerir),"Sidi Kerir, Egypt",Above-ground Tank,Undisclosed,Saudi Aramco,Overseas strategic storage hub
+C055,UAE,Fujairah Strategic Storage,Fujairah,Above-ground Tank,Approx. 14 million bbl (ADNOC underground expansion ongoing),ADNOC,Key non-Hormuz export storage hub
+C056,UAE,ADNOC Underground Crude Storage,Fujairah (underground caverns),Underground Rock Cavern,42 (planned/expanding),ADNOC,Strategic bypass storage for Hormuz risk
+C057,Oman,Ras Markaz Crude Oil Park,Ras Markaz,Above-ground Tank,200 (planned full capacity),Oman Tank Terminal Company,Regional strategic and commercial storage hub
+C058,Kuwait,Strategic Storage (KPC-managed),Multiple sites nationwide,Above-ground Tank,Undisclosed,Kuwait Petroleum Corporation,National oil company managed storage
+C059,Iran,Kharg Island Storage & Floating Reserve,Kharg Island / Persian Gulf,Above-ground Tank & Floating,Undisclosed (large floating component),National Iranian Oil Company,Sanctions-affected floating storage use
+C060,Singapore,Jurong Island Commercial Storage Hub,Jurong Island,Above-ground Tank,Regional commercial hub (not formal SPR),Multiple private operators,Major Asian refined/crude trading storage hub
+C061,Thailand,Sriracha Strategic Reserve (proposed),"Sriracha, Chonburi",Above-ground Tank,Under policy development,Ministry of Energy,Formal SPR mandate under consideration
+C062,Philippines,Minimum Inventory Requirement Stocks,Industry-held sites nationwide,Above-ground Tank,30-day mandate,Department of Energy,"Industry-held, not government-owned"
+C063,Indonesia,Cilacap Strategic Storage,"Cilacap, Central Java",Above-ground Tank,Undisclosed,Pertamina,Major refinery-linked storage site
+C064,Malaysia,Strategic Reserve (Petronas-linked),Multiple sites nationwide,Above-ground Tank,Undisclosed,Petronas,National oil company managed storage
+C065,Vietnam,National Petroleum Reserve (proposed expansion),Multiple sites nationwide,Above-ground Tank,Under policy development,Ministry of Industry and Trade,Reserve capacity being expanded from low base
+C066,Canada,Industry-Held Commercial Stocks,Nationwide refinery/terminal sites,Mixed Tank Storage,No formal government SPR,Industry (private),Relies on market stocks and US SPR access pact
+C067,Mexico,Pemex Strategic Storage,Multiple refinery/terminal sites,Mixed Tank Storage,National reserve mandate under review,Pemex,Historically limited formal reserve
+C068,Brazil,Petrobras Strategic Storage,Multiple refinery/terminal sites,Mixed Tank Storage,Reserve mandate under development,Petrobras,Formal SPR framework still developing
+C069,Chile,National Strategic Reserve (ENAP-managed),Multiple sites nationwide,Mixed Tank Storage,National mandate,ENAP,State oil company managed reserve
+C070,Argentina,YPF Strategic Storage,Multiple refinery/terminal sites,Mixed Tank Storage,No formal government SPR,YPF,State-linked oil company storage
+C071,South Africa,Strategic Fuel Fund Reserve,Saldanha Bay,Above-ground Tank,Approx. 10-12 million bbl capacity,Strategic Fuel Fund Association,National crude storage facility
+C072,Nigeria,NNPC Strategic Storage,Multiple refinery/terminal sites,Above-ground Tank,Undisclosed,NNPC Ltd.,State oil company managed storage
+C073,Egypt,Sidi Kerir Storage Terminal,Sidi Kerir,Above-ground Tank,Undisclosed,EGPC / SUMED,Key Suez-Mediterranean pipeline terminus
+C074,Angola,Sonangol Strategic Storage,Luanda area terminals,Above-ground Tank,Undisclosed,Sonangol,National oil company managed storage
+C075,Australia,Industry & Government-Held Stocks,Domestic refineries + offshore tickets,Mixed Tank Storage,Moving toward 90-day IEA compliance,"Department of Climate Change, Energy, Environment and Water",Includes US SPR ticket-holding arrangement
+C076,New Zealand,Ticket Contract Reserve,Offshore-held (Australia/international),Contractual (Offshore),Approx. 28 days domestic + tickets,"Ministry of Business, Innovation and Employment",Below IEA 90-day target historically
+C077,International Energy Agency (IEA),Multilateral,"Paris, France",Coordinating Body (no physical reserve),Sets 90-day net-import reserve requirement,IEA Secretariat,Coordinates member country stock releases
+C078,OPEC Secretariat,Multilateral,"Vienna, Austria",Coordinating Body (no physical reserve),"Coordinates production, not strategic stocks",OPEC Secretariat,"Market stability role, not a reserve holder"
+C079,ASEAN Council on Petroleum (ASCOPE),Multilateral,"Jakarta, Indonesia",Coordinating Body,Regional emergency response coordination,ASCOPE Secretariat,Facilitates regional reserve-sharing dialogue
+C080,APEC Energy Working Group,Multilateral,Singapore (secretariat),Coordinating Body,Regional energy security coordination,APEC Secretariat,Facilitates reserve-related policy dialogue
+C081,IEA 2022 Coordinated Release,Multilateral (IEA),Member country reserves,Coordinated Release Event,240 million bbl total released,IEA member governments,"Largest coordinated release, post-Ukraine invasion"
+C082,US SPR 2022 Emergency Release,USA,Four SPR sites,Release Event,180 million bbl released,US DOE,Largest single-country SPR release in history
+C083,IEA 2011 Libya Crisis Release,Multilateral (IEA),Member country reserves,Release Event,60 million bbl total released,IEA member governments,Response to Libyan civil war disruption
+C084,IEA 2005 Hurricane Katrina Release,Multilateral (IEA),Member country reserves,Release Event,60 million bbl total released,IEA member governments,Response to Gulf Coast refinery outages
+C085,China 2015 SPR Buildout Announcement,China,Multiple bases nationwide,Policy Event,Phase II/III capacity expansion,National Energy Administration,Accelerated reserve buildout during low prices
+C086,Netherlands,Vopop / Vopak Rotterdam Terminal,Rotterdam,Above-ground Tank (Commercial),Large independent commercial capacity,Vopak,Used for both commercial and strategic-linked storage
+C087,USA,Cushing Storage Hub,"Cushing, Oklahoma",Above-ground Tank (Commercial),Approx. 76 million bbl working capacity,Multiple commercial operators,"WTI pricing point, not government SPR"
+C088,UAE,Fujairah Commercial Oil Terminal (FOT),Fujairah,Above-ground Tank (Commercial),Major regional commercial hub,Multiple private operators,Supplements national strategic storage
+C089,South Korea,Yeosu Commercial/Bonded Storage,Yeosu,Above-ground Tank (Commercial),Large bonded storage capacity,Private/KNOC-linked,Used for transshipment and price arbitrage
+C090,Japan,Private Sector Mandatory Stockpile,Nationwide refinery sites,Mixed Tank Storage (Private),Approx. 70-day private-sector mandate,Japanese oil companies,Separate from JOGMEC national bases
+C091,USA,US Department of Energy - Office of Petroleum Reserves,"Washington, D.C.",Management Agency,Oversees all four SPR sites,US DOE,Federal agency managing SPR
+C092,China,National Energy Administration - Reserve Center,Beijing,Management Agency,Coordinates national SPR bases,NEA,National-level SPR coordination body
+C093,Japan,Japan Organization for Metals and Energy Security (JOGMEC),Tokyo,Management Agency,"Manages national oil, gas, and metals reserves",JOGMEC,"Formerly oil-only stockpiling mandate, since expanded"
+C094,South Korea,Korea National Oil Corporation (KNOC),Ulsan,Management Agency,Manages South Korea's strategic reserve,KNOC,State-owned oil corporation
+C095,India,Indian Strategic Petroleum Reserves Limited (ISPRL),New Delhi,Management Agency,Manages India's underground SPR caverns,ISPRL,Subsidiary of Oil Industry Development Board
+C096,Germany,Erdolbevorratungsverband (EBV),Hamburg,Management Agency,Manages German federal petroleum reserve,EBV,Industry association-based reserve model
+C097,France,SAGESS,Paris,Management Agency,Manages French strategic oil reserve,SAGESS,Corporate reserve-holding entity
+C098,Netherlands,Central Stockholding Entity (COVA),The Hague,Management Agency,Manages Dutch strategic reserve,COVA,National stockpiling agency
+C099,Spain,Corporacion de Reservas Estrategicas (CORES),Madrid,Management Agency,Manages Spanish strategic reserve,CORES,National reserve corporation
+C100,UAE,Abu Dhabi National Oil Company (ADNOC) Strategic Storage Division,Abu Dhabi,Management Agency,Oversees UAE strategic and export storage,ADNOC,Includes Fujairah underground cavern project

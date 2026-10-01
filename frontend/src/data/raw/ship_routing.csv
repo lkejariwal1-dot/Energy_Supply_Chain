@@ -1,0 +1,101 @@
+Route_ID,Origin_Port,Origin_Country,Destination_Port,Destination_Country,Distance_NM,Typical_Transit_Days,Trade_Lane,Canal_Route
+R001,Shanghai,China,Los Angeles,USA,6434,16,Trans-Pacific,None
+R002,Shanghai,China,Long Beach,USA,6459,16,Trans-Pacific,None
+R003,Shanghai,China,Oakland,USA,6280,15,Trans-Pacific,None
+R004,Shenzhen,China,Los Angeles,USA,6519,16,Trans-Pacific,None
+R005,Ningbo-Zhoushan,China,Los Angeles,USA,6470,16,Trans-Pacific,None
+R006,Shanghai,China,New York,USA,10598,24,Trans-Pacific (Panama),Panama Canal
+R007,Shanghai,China,Savannah,USA,10370,23,Trans-Pacific (Panama),Panama Canal
+R008,Yantian,China,Rotterdam,Netherlands,11999,29,Asia-Europe,Suez Canal
+R009,Shanghai,China,Rotterdam,Netherlands,11999,28,Asia-Europe,Suez Canal
+R010,Shanghai,China,Hamburg,Germany,12050,29,Asia-Europe,Suez Canal
+R011,Shanghai,China,Felixstowe,United Kingdom,11750,28,Asia-Europe,Suez Canal
+R012,Singapore,Singapore,Rotterdam,Netherlands,8288,21,Asia-Europe,Suez Canal
+R013,Singapore,Singapore,Jeddah,Saudi Arabia,3540,9,Asia-Middle East,Suez Approach
+R014,Singapore,Singapore,Colombo,Sri Lanka,1580,4,Intra-Asia,None
+R015,Singapore,Singapore,Hong Kong,China,1450,4,Intra-Asia,None
+R016,Singapore,Singapore,Port Klang,Malaysia,210,1,Intra-Asia,None
+R017,Singapore,Singapore,Jakarta,Indonesia,525,2,Intra-Asia,None
+R018,Hong Kong,China,Los Angeles,USA,6430,15,Trans-Pacific,None
+R019,Hong Kong,China,Rotterdam,Netherlands,11730,27,Asia-Europe,Suez Canal
+R020,Busan,South Korea,Los Angeles,USA,5960,14,Trans-Pacific,None
+R021,Busan,South Korea,Long Beach,USA,5985,14,Trans-Pacific,None
+R022,Busan,South Korea,Rotterdam,Netherlands,11440,27,Asia-Europe,Suez Canal
+R023,Yokohama,Japan,Los Angeles,USA,4840,11,Trans-Pacific,None
+R024,Tokyo,Japan,Long Beach,USA,4900,11,Trans-Pacific,None
+R025,Kobe,Japan,Seattle,USA,4260,10,Trans-Pacific,None
+R026,Kaohsiung,Taiwan,Los Angeles,USA,6180,14,Trans-Pacific,None
+R027,Kaohsiung,Taiwan,Rotterdam,Netherlands,10870,26,Asia-Europe,Suez Canal
+R028,Qingdao,China,Los Angeles,USA,5960,15,Trans-Pacific,None
+R029,Tianjin,China,Los Angeles,USA,5710,15,Trans-Pacific,None
+R030,Xiamen,China,Rotterdam,Netherlands,11390,27,Asia-Europe,Suez Canal
+R031,Dalian,China,Vancouver,Canada,5230,12,Trans-Pacific,None
+R032,Shanghai,China,Vancouver,Canada,5540,13,Trans-Pacific,None
+R033,Shanghai,China,Melbourne,Australia,4570,11,Asia-Oceania,None
+R034,Shanghai,China,Sydney,Australia,4580,11,Asia-Oceania,None
+R035,Singapore,Singapore,Fremantle,Australia,2450,6,Asia-Oceania,None
+R036,Rotterdam,Netherlands,New York,USA,3400,8,Trans-Atlantic,None
+R037,Rotterdam,Netherlands,Savannah,USA,4260,10,Trans-Atlantic,None
+R038,Antwerp,Belgium,New York,USA,3390,8,Trans-Atlantic,None
+R039,Hamburg,Germany,New York,USA,3620,9,Trans-Atlantic,None
+R040,Le Havre,France,New York,USA,3160,7,Trans-Atlantic,None
+R041,Southampton,United Kingdom,New York,USA,3160,7,Trans-Atlantic,None
+R042,Rotterdam,Netherlands,Halifax,Canada,3040,7,Trans-Atlantic,None
+R043,Felixstowe,United Kingdom,Montreal,Canada,3160,8,Trans-Atlantic,None
+R044,Rotterdam,Netherlands,Santos,Brazil,5330,13,Europe-South America,None
+R045,Antwerp,Belgium,Buenos Aires,Argentina,6100,14,Europe-South America,None
+R046,Rotterdam,Netherlands,Lagos,Nigeria,4230,10,Europe-West Africa,None
+R047,Rotterdam,Netherlands,Durban,South Africa,7660,17,Europe-Africa,None
+R048,Rotterdam,Netherlands,Mumbai,India,6480,15,Europe-Asia,Suez Canal
+R049,Rotterdam,Netherlands,Dubai,UAE,6390,14,Europe-Middle East,Suez Canal
+R050,Piraeus,Greece,Shanghai,China,9700,23,Europe-Asia,Suez Canal
+R051,Genoa,Italy,Shanghai,China,10400,24,Europe-Asia,Suez Canal
+R052,Valencia,Spain,New York,USA,3660,8,Trans-Atlantic,None
+R053,Algeciras,Spain,New York,USA,3610,8,Trans-Atlantic,None
+R054,Jebel Ali,UAE,Singapore,Singapore,3620,9,Middle East-Asia,None
+R055,Jebel Ali,UAE,Rotterdam,Netherlands,6390,14,Middle East-Europe,Suez Canal
+R056,Jebel Ali,UAE,Mumbai,India,1080,3,Middle East-Asia,None
+R057,Dammam,Saudi Arabia,Singapore,Singapore,4400,10,Middle East-Asia,None
+R058,Mumbai,India,Singapore,Singapore,2400,6,Intra-Asia,None
+R059,Nhava Sheva,India,Rotterdam,Netherlands,6480,15,Asia-Europe,Suez Canal
+R060,Chennai,India,Singapore,Singapore,1620,4,Intra-Asia,None
+R061,Colombo,Sri Lanka,Rotterdam,Netherlands,6980,17,Asia-Europe,Suez Canal
+R062,Port Said,Egypt,Singapore,Singapore,5670,13,Suez-Asia,Suez Canal
+R063,Santos,Brazil,New York,USA,4770,11,South America-North America,None
+R064,Santos,Brazil,Rotterdam,Netherlands,5330,13,South America-Europe,None
+R065,Santos,Brazil,Shanghai,China,11400,26,South America-Asia,None
+R066,Buenos Aires,Argentina,Los Angeles,USA,4880,12,South America-North America,Panama Canal
+R067,Callao,Peru,Los Angeles,USA,2950,8,South America-North America,None
+R068,Cartagena,Colombia,Miami,USA,970,3,South America-North America,None
+R069,Balboa,Panama,Los Angeles,USA,3080,8,Intra-Americas,None
+R070,Colon,Panama,New York,USA,1980,5,Intra-Americas,Panama Canal
+R071,Los Angeles,USA,Panama City,Panama,3080,8,Intra-Americas,None
+R072,New York,USA,Rotterdam,Netherlands,3400,8,Trans-Atlantic,None
+R073,Norfolk,USA,Rotterdam,Netherlands,3600,8,Trans-Atlantic,None
+R074,Charleston,USA,Rotterdam,Netherlands,4030,9,Trans-Atlantic,None
+R075,Houston,USA,Rotterdam,Netherlands,5350,12,Trans-Atlantic,None
+R076,New Orleans,USA,Rotterdam,Netherlands,5150,12,Trans-Atlantic,None
+R077,Vancouver,Canada,Shanghai,China,5490,13,Trans-Pacific,None
+R078,Prince Rupert,Canada,Shanghai,China,5240,12,Trans-Pacific,None
+R079,Seattle,USA,Busan,South Korea,5220,12,Trans-Pacific,None
+R080,Oakland,USA,Yokohama,Japan,4900,11,Trans-Pacific,None
+R081,Manila,Philippines,Los Angeles,USA,6970,16,Trans-Pacific,None
+R082,Manila,Philippines,Hong Kong,China,640,2,Intra-Asia,None
+R083,Ho Chi Minh City,Vietnam,Singapore,Singapore,640,2,Intra-Asia,None
+R084,Ho Chi Minh City,Vietnam,Los Angeles,USA,7280,17,Trans-Pacific,None
+R085,Haiphong,Vietnam,Hong Kong,China,480,1,Intra-Asia,None
+R086,Laem Chabang,Thailand,Singapore,Singapore,860,2,Intra-Asia,None
+R087,Laem Chabang,Thailand,Los Angeles,USA,7660,18,Trans-Pacific,None
+R088,Port Klang,Malaysia,Jebel Ali,UAE,3760,9,Asia-Middle East,None
+R089,Tanjung Pelepas,Malaysia,Rotterdam,Netherlands,8300,20,Asia-Europe,Suez Canal
+R090,Jakarta,Indonesia,Rotterdam,Netherlands,8720,21,Asia-Europe,Suez Canal
+R091,Melbourne,Australia,Singapore,Singapore,3230,8,Oceania-Asia,None
+R092,Sydney,Australia,Los Angeles,USA,6480,15,Oceania-North America,None
+R093,Auckland,New Zealand,Shanghai,China,5900,14,Oceania-Asia,None
+R094,Durban,South Africa,Singapore,Singapore,5100,12,Africa-Asia,None
+R095,Cape Town,South Africa,Rotterdam,Netherlands,6070,14,Africa-Europe,None
+R096,Lagos,Nigeria,Houston,USA,5960,14,West Africa-North America,None
+R097,Mombasa,Kenya,Singapore,Singapore,3560,9,Africa-Asia,None
+R098,Alexandria,Egypt,New York,USA,5390,12,Mediterranean-North America,None
+R099,Istanbul,Turkey,New York,USA,5390,12,Mediterranean-North America,None
+R100,Piraeus,Greece,New York,USA,5150,12,Mediterranean-North America,None

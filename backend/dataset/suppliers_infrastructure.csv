@@ -1,0 +1,101 @@
+Entry_ID,Name,Category,Type,Country,City_HQ_or_Location,Notes
+I001,Port of Shanghai,Port Infrastructure,Infrastructure,China,Shanghai,World's busiest container port by volume
+I002,Port of Singapore (PSA),Port Infrastructure,Infrastructure,Singapore,Singapore,"Major transshipment hub, operated by PSA International"
+I003,Port of Ningbo-Zhoushan,Port Infrastructure,Infrastructure,China,Ningbo,Largest port by cargo tonnage
+I004,Port of Shenzhen,Port Infrastructure,Infrastructure,China,Shenzhen,Yantian and Shekou terminal clusters
+I005,Port of Guangzhou,Port Infrastructure,Infrastructure,China,Guangzhou,Major Pearl River Delta port
+I006,Port of Busan,Port Infrastructure,Infrastructure,South Korea,Busan,Northeast Asia transshipment hub
+I007,Port of Hong Kong,Port Infrastructure,Infrastructure,China,Hong Kong,Historic Asian gateway port
+I008,Port of Qingdao,Port Infrastructure,Infrastructure,China,Qingdao,Major North China port
+I009,Port of Tianjin,Port Infrastructure,Infrastructure,China,Tianjin,Gateway port for Beijing
+I010,Jebel Ali Port (DP World),Port Infrastructure,Infrastructure,UAE,Dubai,"Largest man-made harbor, Middle East hub"
+I011,Port of Rotterdam,Port Infrastructure,Infrastructure,Netherlands,Rotterdam,Largest port in Europe
+I012,Port of Antwerp-Bruges,Port Infrastructure,Infrastructure,Belgium,Antwerp,Second-largest European port
+I013,Port of Hamburg,Port Infrastructure,Infrastructure,Germany,Hamburg,Major Baltic/North Sea gateway
+I014,Port of Felixstowe,Port Infrastructure,Infrastructure,United Kingdom,Felixstowe,UK's largest container port
+I015,Port of Valencia,Port Infrastructure,Infrastructure,Spain,Valencia,Largest Mediterranean container port in Spain
+I016,Port of Piraeus (COSCO),Port Infrastructure,Infrastructure,Greece,Piraeus,Majority owned by COSCO Shipping
+I017,Port of Los Angeles,Port Infrastructure,Infrastructure,USA,Los Angeles,Busiest container port in the Americas
+I018,Port of Long Beach,Port Infrastructure,Infrastructure,USA,Long Beach,"Adjacent to LA, major San Pedro Bay complex"
+I019,Port of New York and New Jersey,Port Infrastructure,Infrastructure,USA,New York/Newark,Largest East Coast port
+I020,Port of Savannah,Port Infrastructure,Infrastructure,USA,Savannah,Fastest-growing US container port
+I021,Port of Houston,Port Infrastructure,Infrastructure,USA,Houston,Leading US Gulf Coast port
+I022,Port of Vancouver,Port Infrastructure,Infrastructure,Canada,Vancouver,Canada's largest port
+I023,Port of Santos,Port Infrastructure,Infrastructure,Brazil,Santos,Largest port in Latin America
+I024,Port of Colombo,Port Infrastructure,Infrastructure,Sri Lanka,Colombo,South Asian transshipment hub
+I025,Jawaharlal Nehru Port (Nhava Sheva),Port Infrastructure,Infrastructure,India,Mumbai,India's largest container port
+I026,Tanjung Pelepas Port,Port Infrastructure,Infrastructure,Malaysia,Johor,Major Strait of Malacca transshipment hub
+I027,Port Klang,Port Infrastructure,Infrastructure,Malaysia,Klang,Malaysia's busiest port
+I028,Port of Tanjung Priok,Port Infrastructure,Infrastructure,Indonesia,Jakarta,Indonesia's main gateway port
+I029,Laem Chabang Port,Port Infrastructure,Infrastructure,Thailand,Chonburi,Thailand's principal deep-sea port
+I030,Durban Port,Port Infrastructure,Infrastructure,South Africa,Durban,Busiest container port in Africa
+I031,Suez Canal,Canal / Chokepoint,Infrastructure,Egypt,Suez,"Key Asia-Europe shortcut, operated by Suez Canal Authority"
+I032,Panama Canal,Canal / Chokepoint,Infrastructure,Panama,Panama City/Colon,"Connects Atlantic and Pacific, operated by ACP"
+I033,Strait of Malacca,Strait / Chokepoint,Infrastructure,Malaysia/Indonesia/Singapore,Malacca Strait,Busiest strait globally for shipping traffic
+I034,Strait of Hormuz,Strait / Chokepoint,Infrastructure,Iran/Oman,Persian Gulf,Critical oil transit chokepoint
+I035,Bab-el-Mandeb Strait,Strait / Chokepoint,Infrastructure,Djibouti/Yemen,Red Sea entrance,Red Sea/Gulf of Aden chokepoint
+I036,Bosphorus Strait,Strait / Chokepoint,Infrastructure,Turkey,Istanbul,Black Sea to Mediterranean passage
+I037,Danish Straits,Strait / Chokepoint,Infrastructure,Denmark,Kattegat/Skagerrak,Baltic Sea access chokepoint
+I038,Kiel Canal,Canal / Chokepoint,Infrastructure,Germany,Kiel,Shortcut between North Sea and Baltic Sea
+I039,DNV,Classification Society,Supplier/Service,Norway,Oslo/Hovik,Leading maritime classification society
+I040,Lloyd's Register,Classification Society,Supplier/Service,United Kingdom,London,One of oldest classification societies
+I041,American Bureau of Shipping (ABS),Classification Society,Supplier/Service,USA,"Spring, Texas",Major US-based class society
+I042,Bureau Veritas Marine & Offshore,Classification Society,Supplier/Service,France,Paris,Global class and certification body
+I043,ClassNK (Nippon Kaiji Kyokai),Classification Society,Supplier/Service,Japan,Tokyo,Leading Japanese class society
+I044,China Classification Society (CCS),Classification Society,Supplier/Service,China,Beijing,National class society of China
+I045,Korean Register,Classification Society,Supplier/Service,South Korea,Busan,National class society of South Korea
+I046,RINA,Classification Society,Supplier/Service,Italy,Genoa,Italian classification and certification group
+I047,Shell Marine,Bunker Fuel Supplier,Supplier/Service,United Kingdom/Netherlands,The Hague,Global marine fuel and lubricants supplier
+I048,BP Marine,Bunker Fuel Supplier,Supplier/Service,United Kingdom,London,Global bunker fuel supply network
+I049,TotalEnergies Marine Fuels,Bunker Fuel Supplier,Supplier/Service,France,Paris,Marine fuel and bunkering services
+I050,Chevron Marine Products,Bunker Fuel Supplier,Supplier/Service,USA,"San Ramon, CA",Marine lubricants and fuel supply
+I051,World Fuel Services (World Kinect),Bunker Fuel Supplier,Supplier/Service,USA,"Miami, FL",Global marine fuel logistics and supply
+I052,Chemoil (Freepoint Commodities),Bunker Fuel Supplier,Supplier/Service,Singapore,Singapore,Major Asian bunker fuel trader
+I053,Minerva Bunkering,Bunker Fuel Supplier,Supplier/Service,Greece,Athens,International marine fuel supplier
+I054,Sinopec Marine Fuel,Bunker Fuel Supplier,Supplier/Service,China,Beijing,Major Chinese state bunker supplier
+I055,Hyundai Heavy Industries,Shipbuilder,Supplier/Service,South Korea,Ulsan,World's largest shipbuilder by orderbook
+I056,Samsung Heavy Industries,Shipbuilder,Supplier/Service,South Korea,Geoje,Major LNG carrier and containership builder
+I057,Daewoo Shipbuilding (Hanwha Ocean),Shipbuilder,Supplier/Service,South Korea,Geoje,Leading builder of LNG carriers and naval vessels
+I058,China State Shipbuilding Corporation (CSSC),Shipbuilder,Supplier/Service,China,Shanghai,China's largest state shipbuilding conglomerate
+I059,Mitsubishi Shipbuilding,Shipbuilder,Supplier/Service,Japan,Yokohama,Major Japanese shipbuilder
+I060,Imabari Shipbuilding,Shipbuilder,Supplier/Service,Japan,Imabari,Japan's largest shipbuilder by tonnage
+I061,Fincantieri,Shipbuilder,Supplier/Service,Italy,Trieste,"Major European shipbuilder, cruise ship specialist"
+I062,Meyer Werft,Shipbuilder,Supplier/Service,Germany,Papenburg,Leading cruise ship builder
+I063,V.Group,Ship Management,Supplier/Service,United Kingdom,London,One of world's largest ship managers
+I064,Anglo-Eastern Univan Group,Ship Management,Supplier/Service,Hong Kong,Hong Kong,Major third-party ship manager
+I065,Wallem Group,Ship Management,Supplier/Service,Hong Kong,Hong Kong,Global ship management and marine services
+I066,Bernhard Schulte Shipmanagement,Ship Management,Supplier/Service,Germany/Cyprus,Hamburg,Leading independent ship manager
+I067,Synergy Marine Group,Ship Management,Supplier/Service,Singapore,Singapore,Fast-growing global ship manager
+I068,Fleet Management Limited,Ship Management,Supplier/Service,Hong Kong,Hong Kong,Major Asian third-party ship manager
+I069,Gard P&I Club,P&I Club / Insurance,Supplier/Service,Norway,Arendal,Largest P&I insurer by tonnage
+I070,North Standard (NorthStandard),P&I Club / Insurance,Supplier/Service,United Kingdom,London,Merger of North of England and Standard Club
+I071,UK P&I Club,P&I Club / Insurance,Supplier/Service,United Kingdom,London,Founding member of International Group of P&I Clubs
+I072,Britannia P&I Club,P&I Club / Insurance,Supplier/Service,United Kingdom,London,Long-established mutual marine insurer
+I073,The Swedish Club,P&I Club / Insurance,Supplier/Service,Sweden,Gothenburg,Marine mutual insurance provider
+I074,Japan P&I Club,P&I Club / Insurance,Supplier/Service,Japan,Tokyo,Mutual P&I insurer for Japanese owners
+I075,Triton International,Container Leasing,Supplier/Service,Bermuda/USA,Hamilton,World's largest container leasing company
+I076,Textainer Group,Container Leasing,Supplier/Service,USA,San Francisco,Major global container lessor
+I077,Florens Container Leasing,Container Leasing,Supplier/Service,Hong Kong,Hong Kong,COSCO-affiliated container leasing company
+I078,CAI International,Container Leasing,Supplier/Service,USA,San Francisco,Container and logistics equipment lessor
+I079,SeaCube Container Leasing,Container Leasing,Supplier/Service,USA,"Princeton, NJ",Refrigerated and dry container lessor
+I080,Wartsila,Marine Equipment,Supplier/Service,Finland,Helsinki,Marine engines and power systems
+I081,MAN Energy Solutions,Marine Equipment,Supplier/Service,Germany,Augsburg,Two-stroke marine diesel engines
+I082,Kongsberg Maritime,Marine Equipment,Supplier/Service,Norway,Kongsberg,"Navigation, automation and positioning systems"
+I083,Furuno Electric,Marine Equipment,Supplier/Service,Japan,Nishinomiya,Marine radar and navigation electronics
+I084,Raytheon Anschutz,Marine Equipment,Supplier/Service,Germany,Kiel,Bridge and navigation systems
+I085,JRC (Japan Radio Co.),Marine Equipment,Supplier/Service,Japan,Tokyo,Marine communication and radar equipment
+I086,Alfa Laval Marine,Marine Equipment,Supplier/Service,Sweden,Lund,Fuel treatment and scrubber systems
+I087,Rolls-Royce / Kongsberg Marine (former),Marine Equipment,Supplier/Service,Norway/UK,Kongsberg,Propulsion and marine systems (Kongsberg-acquired)
+I088,StormGeo,Weather Routing,Supplier/Service,Norway,Bergen,Ship weather routing and voyage optimization
+I089,Applied Weather Technology (AWT),Weather Routing,Supplier/Service,USA,"Seattle, WA",BVS ship routing and weather service
+I090,MeteoGroup / DTN Marine,Weather Routing,Supplier/Service,United Kingdom,London,Marine meteorological routing services
+I091,Bureau Veritas Cargo Surveys,Cargo Survey/Inspection,Supplier/Service,France,Paris,Cargo and vessel inspection services
+I092,SGS Marine Services,Cargo Survey/Inspection,Supplier/Service,Switzerland,Geneva,"Cargo inspection, testing and certification"
+I093,Intertek Shipcare,Cargo Survey/Inspection,Supplier/Service,United Kingdom,London,Marine cargo inspection and testing
+I094,ZPMC (Shanghai Zhenhua Heavy Industries),Port Equipment,Supplier/Service,China,Shanghai,World's largest crane manufacturer
+I095,Liebherr Maritime Cranes,Port Equipment,Supplier/Service,Switzerland/Germany,Rostock,Ship-to-shore and mobile harbor cranes
+I096,Konecranes,Port Equipment,Supplier/Service,Finland,Hyvinkaa,Port and terminal handling equipment
+I097,DP World,Terminal Operator,Infrastructure,UAE,Dubai,"Global port terminal operator, 80+ terminals"
+I098,PSA International,Terminal Operator,Infrastructure,Singapore,Singapore,Global port operator based in Singapore
+I099,APM Terminals (Maersk),Terminal Operator,Infrastructure,Netherlands,The Hague,"Global terminal network, Maersk subsidiary"
+I100,Hutchison Ports,Terminal Operator,Infrastructure,Hong Kong,Hong Kong,World's leading port investor/operator by container throughput
